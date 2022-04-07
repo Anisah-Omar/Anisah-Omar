@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisah-Omar)](https://github.com/Anisah-Omar/github-readme-stats)
 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Anisah-Omar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Anisah-Omar/0" alt="Recent Article 0">
