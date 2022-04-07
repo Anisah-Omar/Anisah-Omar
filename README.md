@@ -9,6 +9,11 @@
 - 📫 How to reach me: email me @ anysahani125@gmail.com
 - 🌱 I’m addicted to learning and growing every day
 
+**languages and tools**
+
+![image](https://user-images.githubusercontent.com/71156452/162216099-7d04c50e-4946-4d71-a550-a1b094e6eec5.png)
+
+
 
 
 [![Anisah's github stats](https://github-readme-stats.vercel.app/api?username=Anisah-Omar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
