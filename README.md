@@ -11,9 +11,10 @@
 
 **languages and tools**
 
-![image](https://user-images.githubusercontent.com/71156452/162216099-7d04c50e-4946-4d71-a550-a1b094e6eec5.png)
+![image](https://user-images.githubusercontent.com/71156452/162216099-7d04c50e-4946-4d71-a550-a1b094e6eec5.png)   ![image](https://user-images.githubusercontent.com/71156452/162217617-bbcff531-0fa5-46e4-b240-719f6fb547ab.png)  
 
-![image](https://user-images.githubusercontent.com/71156452/162217412-deec76de-2973-43ab-8063-68a250c6b3ef.png)
+
+
 
 
 
