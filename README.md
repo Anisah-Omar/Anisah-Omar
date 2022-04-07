@@ -15,6 +15,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisah-Omar)](https://github.com/Anisah-Omar/github-readme-stats)
 
 
 
