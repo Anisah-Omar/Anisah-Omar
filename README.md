@@ -12,8 +12,8 @@
 **languages and tools**
 
 ![image](https://user-images.githubusercontent.com/71156452/162216099-7d04c50e-4946-4d71-a550-a1b094e6eec5.png)
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
 
 
