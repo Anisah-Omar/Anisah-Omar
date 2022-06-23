@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on **C language**
-- 🌱 I’m currently learning **flutter**
 - 👯 I’m looking to collaborate on a front-end project
 - 💬 Ask me about anything
 - 📫 How to reach me: email me @ anysahani125@gmail.com
