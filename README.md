@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on a front-end project
 - 💬 Ask me about anything
 - 📫 How to reach me: email me @ anysahani125@gmail.com
-- 🌱 I’m addicted to learning and growing every day
+**- 🌱 I’m addicted to learning and growing every day **
 
 **languages and tools**
 
