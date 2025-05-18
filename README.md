@@ -3,7 +3,7 @@
 
 
 
-- 👯 I’m looking to collaborate on a front-end project
+- 👯 I’m looking to collaborate on a front-end project and mobile development.
 - 💬 Ask me about anything
 - 📫 How to reach me: email me @ anysahani125@gmail.com
 
